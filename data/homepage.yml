@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "A gyógymód segít enyhíteni az ízületi fájdalmakat, és enyhíti a fizikai megterhelés utáni fáradtságot is"
-  content : "Ha eltalál, nyújtsa ki a lábát vagy mozdítsa el a karját - itt a légyölő galóca is hasznot húz. Azoknak ajánljuk, akiknek ízületei reagálnak az időjárásra. A krém lassítja az öregedésüket és táplálja a bőrt."
+  content : "A szablyában lévő tanninokat a pirokatecholsor képviseli, kifejezett gyulladáscsökkentő, baktericid tulajdonságokkal rendelkeznek, és P-vitamin aktivitással is rendelkeznek."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "A termékünkről"
-  content : "Légyölő galóca kivonat és Tambukan iszap alapján készült. Kissé folyékony, könnyen felvihető. Ami a hatékonyságot illeti, a vásárlók véleménye megoszlott: valaki csak ápolónak tartja, míg valakinek a krém már az első alkalmazáskor segít enyhíteni a fájdalmat. Mindazonáltal mindenki megjegyzi a pihentető aromát - a termék frissességet és virágillatot áraszt (kakukkfű és pacsuli illóolajainak összetételében)."
+  content : "A tanninokra és flavonoidokra jellemző P-vitamin aktivitás miatt a cinquefoil gyökerei normalizálódnak és támogatják a fizikai megterhelésnek kitett kötőszövet szerkezetét."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "A termék használata?"
-  content : "Vigyen fel egy kis krémet a problémás területre, és masszírozó mozdulatokkal dörzsölje be, amíg kellemes meleget nem érez. A hatás fokozása érdekében a fűtött területet száraz ruhával lehet becsomagolni. Naponta 1-2 alkalommal alkalmazza."
+  content : "Hogyan kell használni: Vigye fel a krémet a bőrre az ízületek területén, intenzíven dörzsölje körkörös mozdulatokkal, amíg naponta 2-3 alkalommal teljesen felszívódik. A krém nagyobb hatékonysága érdekében kösse össze a problémás területet gyapjú ruhával. A krémet legalább 2-3 hónapig ajánlott alkalmazni."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -91,13 +91,6 @@ testimonial:
       designation : "CEO, Dialogue Broad Band"
       content : "Tökéletesen enyhíti az ízületek és a gerinc fájdalmát és gyulladását"
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Ada Ventilo"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Kiváló összetétel, elfogadható ár, hatékony."
-      rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Edgar Doe"
